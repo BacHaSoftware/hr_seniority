@@ -2,10 +2,10 @@
     'name': "HR Seniority",
     'author': 'Bac Ha Software',
     'category': 'HR',
-    'version': '1.0',
+    'version': '19.0.1.0',
     'summary': 'Add seniority to employee',
     'description': "Change note name when changing memo",
-    'depends': ['base', 'hr_contract'],
+    'depends': ['base', 'hr'],
     'data': [
         'views/seniority.xml',
     ],
