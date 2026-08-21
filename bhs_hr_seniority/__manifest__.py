@@ -1,5 +1,5 @@
 {
-    'name': "HR Seniority",
+    'name': "Employee Seniority Tracker",
     'author': 'Bac Ha Software',
     'category': 'HR',
     'version': '1.0',

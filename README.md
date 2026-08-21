@@ -8,7 +8,7 @@
     <img src="/bhs_hr_seniority/static/description/icon.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">HR Seniority</h3>
+  <h3 align="center">Employee Seniority Tracker</h3>
 
   <p align="center">
     A product of Bac Ha Software allows you to see employee seniority.
